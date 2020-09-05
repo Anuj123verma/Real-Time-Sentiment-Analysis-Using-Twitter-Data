@@ -7,6 +7,7 @@
 python file for generating dataset according to the category and other for prediction.
 5)Then you need have the dashboard folder which contains the files for running the dashboard.
 
-
+Please read the pdf for each and every analysis and information.
+To watch the online demostration of the app please see the below video.
 Video Demonstration link:
 https://drive.google.com/file/d/11xH92jbd6gzBgADNNMZOzkwsweOOMU-j/view?usp=sharing
